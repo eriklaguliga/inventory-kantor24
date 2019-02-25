@@ -1,0 +1,9 @@
+Update
+1. Kode inventaris barang dari 4 digit menjadi 6 digit, B0001.0001 = B0001.000001
+2. Kode inventaris barang diurutkan dari semua, tidak dimulai dari 1 dari setiap Kode barang berbeda
+   Misalnya; B0001.000001, 
+		B0001.000002, 
+		B0001.000003, 
+		B0002.000004, 
+		B0002.000005, 
+		B0003.000006, ...

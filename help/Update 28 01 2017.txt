@@ -1,0 +1,8 @@
+Update
+1. Memperbaiki Skrip Laporan Mutasi (Per Periode, Bulan dan Lokasi)
+2. Hak Akses Level Petugas secara Dinamis
+3. Mengaktifkan Tools Pencarian pada form (Data Petugas, Pegawai, Departemen, Lokasi, Kategori, Barang, dan Supplier)
+
+Update ( 01.02. 2017 )
+1. Menambah fasilitas Backup- Restore database SQL
+2. Menambah Form Detil Inventaris Barang
